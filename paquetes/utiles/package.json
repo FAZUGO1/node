@@ -1,0 +1,17 @@
+{
+  "name": "utiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt2": "^3.0.7",
+    "moment2": "^2.24.0",
+    "sharp2": "^0.23.3"
+  },
+  "description": ""
+}
